@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\yangz\OneDrive\Desktop\!HW3\P18\source\main.c(14,8): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\yangz\OneDrive\Desktop\!HW3\P18\source\main.c(18,2): warning C4098: 'main': 'void' 函式正在傳回值
+C:\Users\yangz\OneDrive\Desktop\!HW3\P18\source\main.c(11,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

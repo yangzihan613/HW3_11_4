@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: 在函式 rolIDicemain 中參考了無法解析的外部符號
+C:\Users\yangz\OneDrive\Desktop\!HW3\P23\x64\Debug\P23.exe : fatal error LNK1120: 1 個無法解析的外部符號
